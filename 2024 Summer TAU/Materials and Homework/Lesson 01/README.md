@@ -1,6 +1,7 @@
 # 01 Materials
 ## Online Sanskrit Dictionaries
 https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php
+
 https://andhrabharati.com/dictionary/sanskrit/index.html
 https://sanskrit.digitalroses.net
 ## Online Keyboards

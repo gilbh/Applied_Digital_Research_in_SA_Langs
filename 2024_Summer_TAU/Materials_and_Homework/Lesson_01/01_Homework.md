@@ -4,3 +4,4 @@
 3.	Manually type the ten verses in IAST (Latin + diascritics) form in Microsoft Word. For typing IAST, use Sanscript (https://learnsanskrit.org/tools/sanscript/).
 4.	Sign up to Transkribus (https://account.readcoop.eu/ then click “Register”)
 5.	Sign up to GitHub (https://github.com/signup)
+6.	Send me via email (gilbenherut@gmail.com) your GitHub username.

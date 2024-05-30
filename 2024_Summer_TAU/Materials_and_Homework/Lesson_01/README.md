@@ -8,6 +8,7 @@ https://learnsanskrit.org/tools/sanscript/
 https://www.aksharamukha.com/converter  
 https://dev.digitalroses.net/que/kb.php  
 ## System Keyboards
+https://www.visiblemantra.org/downloads/tFont.exe  
 Template in Word  
 ## Repositories of Sanskrit Texts
 https://docs.google.com/document/d/14XBZo_s-RYvsbb85p-ahrp1tahZCkXeSbdVpiYCBxi8/edit  

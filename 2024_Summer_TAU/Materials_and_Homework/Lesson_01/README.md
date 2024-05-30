@@ -1,4 +1,4 @@
-# 01 Materials
+# 01 Online Resources for Working with Sanskrit
 ## Online Sanskrit Dictionaries
 https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php  
 https://andhrabharati.com/dictionary/sanskrit/index.html  

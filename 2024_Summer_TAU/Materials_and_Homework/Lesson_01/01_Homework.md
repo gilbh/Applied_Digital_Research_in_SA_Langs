@@ -1,5 +1,5 @@
 # 01 Homework
-5.	Sign up to GitHub (https://github.com/signup) and send me via email (gilbenherut@gmail.com) your GitHub username.
+1.	Sign up to GitHub (https://github.com/signup) and send me via email (gilbenherut@gmail.com) your GitHub username.
 6.	Sign up to Transkribus (https://account.readcoop.eu/ then click “Register”)
 1.	Choose a Sanskrit text you have interest in (preferably *not* a canonical text  such as Mahabharata etc.)
 2.	Scan the first ten verses (or equivalent prose portion) of your text as one PDF file (make sure it is in a good quality) and have it available on your computer for next class

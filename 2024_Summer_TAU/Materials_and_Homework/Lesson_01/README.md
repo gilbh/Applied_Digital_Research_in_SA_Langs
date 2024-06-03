@@ -24,3 +24,4 @@ https://github.com/aso2101
 https://sanskrit.inria.fr/cgi-bin/SKT/sktcorpus.cgi?corpdir=KAvya%2FKAlidAsa%2FMeghadUta&corpmode=reader&font=deva&lex=MW  
 https://buddhanexus.net/  
 https://www2.hf.uio.no/polyglotta/index.php?page=main  
+https://sanskrit.inria.fr/DICO/reader.fr.html  

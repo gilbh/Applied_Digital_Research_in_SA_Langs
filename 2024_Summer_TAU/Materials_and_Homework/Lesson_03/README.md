@@ -1,9 +1,9 @@
 # 03 Computing Literacy
 
-## Power Editors
-For technical editing of Sanskrit files and more
-https://notepad-plus-plus.org/  (for Windows only, easy to use)
-https://www.vim.org/  (highly advanced, steep learning curve)
+## Power Editors  
+For technical editing of Sanskrit files and more  
+https://notepad-plus-plus.org/  (Windows only, easy to use)  
+https://www.vim.org/  (highly advanced, super-poowerful but steep learning curve)  
 
 ## Touch Typing
 https://www.typingclub.com/sportal/program-3/116.play

@@ -11,9 +11,10 @@ https://dev.digitalroses.net/que/kb.php
 ## Repositories of Sanskrit Texts
 https://sarit.indology.info/  
 https://gretil.sub.uni-goettingen.de/  
-https://titus.uni-frankfurt.de/indexe.htm?/texte/texte2.htm  
 http://sanskrit-linguistics.org/dcs/  
 https://github.com/OliverHellwig/sanskrit/tree/master/dcs/data/conllu/files  
+https://bombay.indology.info/mahabharata/welcome.html  
+https://titus.uni-frankfurt.de/indexe.htm?/texte/texte2.htm  
 https://github.com/aso2101  
 https://sanskrit.inria.fr/cgi-bin/SKT/sktcorpus.cgi?corpdir=KAvya%2FKAlidAsa%2FMeghadUta&corpmode=reader&font=deva&lex=MW  
 https://buddhanexus.net/  

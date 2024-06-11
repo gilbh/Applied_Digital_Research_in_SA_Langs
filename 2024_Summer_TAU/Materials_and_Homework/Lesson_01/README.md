@@ -10,7 +10,8 @@ https://dev.digitalroses.net/que/kb.php
 [Template for typing diacritics in Microsoft Word](../Lesson_01/times_ext_roman_macron.dotx)  (Click on the download button on the right side of the screen)
 ## Repositories of Sanskrit Texts
 https://sarit.indology.info/  
-https://gretil.sub.uni-goettingen.de/  https://titus.uni-frankfurt.de/indexe.htm?/texte/texte2.htm  
+https://gretil.sub.uni-goettingen.de/  
+https://titus.uni-frankfurt.de/indexe.htm?/texte/texte2.htm  
 http://sanskrit-linguistics.org/dcs/  
 https://github.com/OliverHellwig/sanskrit/tree/master/dcs/data/conllu/files  
 https://github.com/aso2101  

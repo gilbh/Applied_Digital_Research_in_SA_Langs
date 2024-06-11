@@ -12,9 +12,8 @@ https://www.visiblemantra.org/downloads/tFont.exe
 Template in Word  
 ## Repositories of Sanskrit Texts
 https://docs.google.com/document/d/14XBZo_s-RYvsbb85p-ahrp1tahZCkXeSbdVpiYCBxi8/edit  
-https://sarit.indology.info/sarit-pm/docs/welcome.html  
-https://gretil.sub.uni-goettingen.de/  
-https://titus.uni-frankfurt.de/indexe.htm?/texte/texte2.htm  
+https://sarit.indology.info/  
+https://gretil.sub.uni-goettingen.de/  https://titus.uni-frankfurt.de/indexe.htm?/texte/texte2.htm  
 https://ambuda.org/  
 https://www.gitasupersite.iitk.ac.in/  
 http://sanskrit-linguistics.org/dcs/  

@@ -7,7 +7,7 @@ https://learnsanskrit.org/tools/sanscript/
 https://dev.digitalroses.net/que/kb.php  
 ## System Keyboards
 [Windows only, installer for Times Ext Roman with all required diacritics](https://www.visiblemantra.org/downloads/tFont.exe)  
-[Template for typing diacritics in Microsoft Word](../Lesson_01/times_ext_roman_macron.dotx)
+[Template for typing diacritics in Microsoft Word](../Lesson_01/times_ext_roman_macron.dotx)  (Click on the download button on the right side of the screen)
 ## Repositories of Sanskrit Texts
 https://docs.google.com/document/d/14XBZo_s-RYvsbb85p-ahrp1tahZCkXeSbdVpiYCBxi8/edit  
 https://sarit.indology.info/  

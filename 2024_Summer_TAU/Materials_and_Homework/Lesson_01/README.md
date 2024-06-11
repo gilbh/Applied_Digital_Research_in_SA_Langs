@@ -9,14 +9,10 @@ https://dev.digitalroses.net/que/kb.php
 [Windows only, installer for Times Ext Roman with all required diacritics](https://www.visiblemantra.org/downloads/tFont.exe)  
 [Template for typing diacritics in Microsoft Word](../Lesson_01/times_ext_roman_macron.dotx)  (Click on the download button on the right side of the screen)
 ## Repositories of Sanskrit Texts
-https://docs.google.com/document/d/14XBZo_s-RYvsbb85p-ahrp1tahZCkXeSbdVpiYCBxi8/edit  
 https://sarit.indology.info/  
 https://gretil.sub.uni-goettingen.de/  https://titus.uni-frankfurt.de/indexe.htm?/texte/texte2.htm  
-https://ambuda.org/  
-https://www.gitasupersite.iitk.ac.in/  
 http://sanskrit-linguistics.org/dcs/  
 https://github.com/OliverHellwig/sanskrit/tree/master/dcs/data/conllu/files  
-https://www.panditproject.org/  
 https://github.com/aso2101  
 https://sanskrit.inria.fr/cgi-bin/SKT/sktcorpus.cgi?corpdir=KAvya%2FKAlidAsa%2FMeghadUta&corpmode=reader&font=deva&lex=MW  
 https://buddhanexus.net/  

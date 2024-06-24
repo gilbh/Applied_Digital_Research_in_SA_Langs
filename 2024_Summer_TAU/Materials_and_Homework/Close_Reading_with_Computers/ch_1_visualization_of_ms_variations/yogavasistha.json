@@ -1,0 +1,14 @@
+{
+"nodes":[
+{"name":"YV 1-6"},
+{"name":"YV 7-9"},
+
+{"name":"LYV 1-3"},
+{"name":"LYV 4-9"}
+],
+"links":[
+{"source":"YV 7-9","target":"LYV 1-3","value":3},
+{"source":"YV 1-6","target":"LYV 4-9","value":6}
+],
+"nolink":[
+]}

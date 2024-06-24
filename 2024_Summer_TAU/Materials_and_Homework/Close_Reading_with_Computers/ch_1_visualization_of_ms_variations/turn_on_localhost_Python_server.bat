@@ -1,0 +1,1 @@
+python -m http.server -b 0.0.0.0 --directory "C:\Dropbox\Documents_and_Writings\Teaching\2023-24 June 2024 TAU Digital Tools for Indian Languages\code\Close_Reading_with_Computers\digital appendix 1 - data for chapter two\run_local_server" 8888

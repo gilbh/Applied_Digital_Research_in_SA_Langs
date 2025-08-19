@@ -13,6 +13,8 @@ https://sarit.indology.info/
 https://gretil.sub.uni-goettingen.de/  
 http://sanskrit-linguistics.org/dcs/  
 https://github.com/OliverHellwig/sanskrit/tree/master/dcs/data/conllu/files  
+http://hathapradipika.online/
+https://www.saktumiva.org/
 https://bombay.indology.info/mahabharata/welcome.html  
 https://titus.uni-frankfurt.de/indexe.htm?/texte/texte2.htm  
 https://github.com/aso2101  
